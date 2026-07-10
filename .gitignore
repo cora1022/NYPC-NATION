@@ -1,0 +1,17 @@
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+
+# Local logs and generated maps
+*.log
+log.txt
+input.txt
+output.txt
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
