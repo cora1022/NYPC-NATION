@@ -1,13 +1,17 @@
+<a href="https://www.youtube.com/watch?v=BnExruRtP1A">
+  <img src="https://i.ytimg.com/vi/BnExruRtP1A/maxresdefault.jpg" alt="NYPC 공식 가이드 영상: NEXT NATION 플레이 규칙" width="800">
+</a>
+
+[NYPC 공식 가이드 영상 보기](https://www.youtube.com/watch?v=BnExruRtP1A)
+
 # NYPC NATION
 
 NYPC 마스터트랙 예선 문제인 **NEXT NATION**을 분석하며 만든 전략 봇 제출 기록입니다.  
 이 저장소에는 제출 코드 스냅샷, 공식 제공 테스트 도구, 그리고 대회 룰과 개선 과정을 다시 따라갈 수 있는 정리 문서를 함께 남겼습니다.
 
-## 개발기록
+## [블로그에서 참가 타임라인과 실행 영상 보기 →](https://cora1022.com/blog/posts/nypc-participation-timeline.html)
 
-자세한 참가 타임라인과 제출별 실행 영상은 아래 개발기록에 정리했습니다.
-
-- [NYPC 참가 타임라인](https://cora1022.com/blog/posts/nypc-participation-timeline.html)
+날짜별 전략 수정 과정과 제출별 실행 영상을 블로그에 정리했습니다.
 
 ## 저장소 구성
 
