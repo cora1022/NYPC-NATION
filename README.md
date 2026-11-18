@@ -7,7 +7,7 @@ NYPC 마스터트랙 예선 문제인 **NEXT NATION**을 분석하며 만든 전
 
 자세한 참가 타임라인과 제출별 실행 영상은 아래 개발기록에 정리했습니다.
 
-- [NYPC 참가 타임라인](https://cora1022.github.io/blog/posts/nypc-participation-timeline.html)
+- [NYPC 참가 타임라인](https://cora1022.com/blog/posts/nypc-participation-timeline.html)
 
 ## 저장소 구성
 
